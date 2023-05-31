@@ -37,20 +37,20 @@ This application was developed using significant libraries and tools in the proc
 - Here we illustrate how to add a new person, how to delete an existing contact, or how to update the information of a person. Changes made through Fragment Lifecycles ensure our lists are updated accordingly.
 
 <p float="left">
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/8d01e0ff-b263-4cba-bf81-663c9566a372" width="300" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/87fb3a0c-fcf6-4d6b-be0b-7f6d23d90f04" width="300" /> 
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/c8347cc9-09d5-4326-ad29-6d3a568ff6aa" width="300" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/8d01e0ff-b263-4cba-bf81-663c9566a372" width="250" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/87fb3a0c-fcf6-4d6b-be0b-7f6d23d90f04" width="250" /> 
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/c8347cc9-09d5-4326-ad29-6d3a568ff6aa" width="250" />
 </p>
 
 ### Getting Persons By Group Names
 - In this section, you can see how all added people are neatly sorted when their relevant group is pressed. From here, you can also perform delete and update operations by clicking on the relevant element in the list.
 
 <p float="left">
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/9a3560d0-0069-4c29-ac64-db287bc4734f" width="300" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/fe09d960-74cd-458e-a383-84e15d6ba4d5" width="300" /> 
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/d7efc587-b5c9-4bb4-bcce-8ed1dd625032" width="300" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/3242a726-6f02-424e-850e-b796992c40ba" width="300" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/16b25979-3a56-457a-9e38-09a0cb227e25" width="300" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/9a3560d0-0069-4c29-ac64-db287bc4734f" width="250" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/fe09d960-74cd-458e-a383-84e15d6ba4d5" width="250" /> 
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/d7efc587-b5c9-4bb4-bcce-8ed1dd625032" width="250" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/3242a726-6f02-424e-850e-b796992c40ba" width="250" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/16b25979-3a56-457a-9e38-09a0cb227e25" width="250" />
 </p>
 
 
