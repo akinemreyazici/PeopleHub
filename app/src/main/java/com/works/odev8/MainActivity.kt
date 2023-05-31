@@ -49,7 +49,6 @@ class MainActivity : AppCompatActivity() {
             setOf(
                 R.id.nav_homepage,
                 R.id.nav_friends,
-                R.id.nav_homepage,
                 R.id.nav_family,
                 R.id.nav_business,
                 R.id.nav_gamer,
