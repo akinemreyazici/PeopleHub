@@ -28,9 +28,9 @@ This application was developed using significant libraries and tools in the proc
 - In this part, you'll see how the app displays the latest 10 people added to the contacts. Additionally, we demonstrate how you can search among all registered users based on their name, surname, email, phone, and group name.
 
 <p float="left">
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/b636f50b-5e78-457c-a5c3-eafa472eeedc" width="300" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/0885bcf6-05a2-46af-8823-4608d32dba39" width="300" /> 
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/d82ec391-a329-4ee7-bedc-4ee52bf69421" width="300" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/b636f50b-5e78-457c-a5c3-eafa472eeedc" width="250" />
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/0885bcf6-05a2-46af-8823-4608d32dba39" width="250" /> 
+  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/d82ec391-a329-4ee7-bedc-4ee52bf69421" width="250" />
 </p>
 
 ### Add , Delete and Update Person
