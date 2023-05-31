@@ -46,11 +46,12 @@ This application was developed using significant libraries and tools in the proc
 - In this section, you can see how all added people are neatly sorted when their relevant group is pressed. From here, you can also perform delete and update operations by clicking on the relevant element in the list.
 
 <p float="left">
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/9a3560d0-0069-4c29-ac64-db287bc4734f" width="250" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/fe09d960-74cd-458e-a383-84e15d6ba4d5" width="250" /> 
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/d7efc587-b5c9-4bb4-bcce-8ed1dd625032" width="250" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/3242a726-6f02-424e-850e-b796992c40ba" width="250" />
-  <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/16b25979-3a56-457a-9e38-09a0cb227e25" width="250" />
+  <img width="200" alt="nav_drawer" src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/badbf11b-6d75-4a93-99a9-ee9c5b7eb26e">
+  <img width="200" alt="family_show" src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/540bd7ef-3ddb-49aa-a5c8-79288d41e0e4">
+  <img width="200" alt="friends_show" src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/8a6fa226-6cef-47d9-b822-96cb91b42ab4">  
+  <img width="200" alt="school_show" src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/0d0c8884-cc84-48c8-96b7-c538fb5b66c1">
+  <img width="200" alt="business_show" src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/ef1d7b86-62f2-43e9-9081-0280e133bfc1">
+  <img width="200" alt="gamer_show" src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/3e879f48-8503-482a-bb45-38a947bfd346">
 </p>
 
 
