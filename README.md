@@ -20,7 +20,7 @@ This application was developed using significant libraries and tools in the proc
 - **Navigation Drawer**: A navigation component that helps users navigate within the application.
 - **Fragment Lifecycle**: Understanding and effectively managing the lifecycle of fragments.
 - **Glide Library**: We used the Glide library to load icons for each group in the application. Glide is a powerful and efficient image loading library for Android.
-- **Android Manifest**: We defined the necessary permissions in the Android Manifest to allow the application to connect to the internet.
+
 
 ## Demo
 
