@@ -24,7 +24,7 @@ This application was developed using significant libraries and tools in the proc
 
 ## Demo
 
-**Homepage**
+### Homepage
 - In this part, you'll see how the app displays the latest 10 people added to the contacts. Additionally, we demonstrate how you can search among all registered users based on their name, surname, email, phone, and group name.
 
 <p float="left">
@@ -33,7 +33,7 @@ This application was developed using significant libraries and tools in the proc
   <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/d82ec391-a329-4ee7-bedc-4ee52bf69421" width="300" />
 </p>
 
-**Add , Delete and Update Person**
+### Add , Delete and Update Person
 - Here we illustrate how to add a new person, how to delete an existing contact, or how to update the information of a person. Changes made through Fragment Lifecycles ensure our lists are updated accordingly.
 
 <p float="left">
@@ -42,7 +42,7 @@ This application was developed using significant libraries and tools in the proc
   <img src="https://github.com/akinemreyazici/PeopleHub/assets/116732291/c8347cc9-09d5-4326-ad29-6d3a568ff6aa" width="300" />
 </p>
 
-**Getting Persons By Group Names**
+### Getting Persons By Group Names
 - In this section, you can see how all added people are neatly sorted when their relevant group is pressed. From here, you can also perform delete and update operations by clicking on the relevant element in the list.
 
 <p float="left">
