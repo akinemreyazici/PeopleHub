@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_homepage">
+
+    <fragment
+        android:id="@+id/nav_friends"
+        android:name="com.works.odev8.ui.Friends.FriendsFragment"
+        android:label="@string/menu_friends"
+        tools:layout="@layout/fragment_friends" >
+        <action
+            android:id="@+id/action_nav_friends_to_personDetailFragment"
+            app:destination="@id/personDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_school"
+        android:name="com.works.odev8.ui.School.SchoolFragment"
+        android:label="@string/menu_school"
+        tools:layout="@layout/fragment_school" >
+        <action
+            android:id="@+id/action_nav_school_to_personDetailFragment"
+            app:destination="@id/personDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_homepage"
+        android:name="com.works.odev8.ui.Homepage.HomepageFragment"
+        android:label="@string/menu_homepage"
+        tools:layout="@layout/fragment_homepage" >
+        <action
+            android:id="@+id/action_nav_homepage_to_personDetailFragment"
+            app:destination="@id/personDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_business"
+        android:name="com.works.odev8.ui.Business.BusinessFragment"
+        android:label="@string/menu_business"
+        tools:layout="@layout/fragment_business" >
+        <action
+            android:id="@+id/action_nav_business_to_personDetailFragment"
+            app:destination="@id/personDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_family"
+        android:name="com.works.odev8.ui.Family.FamilyFragment"
+        android:label="@string/menu_family"
+        tools:layout="@layout/fragment_family" >
+        <action
+            android:id="@+id/action_nav_family_to_personDetailFragment"
+            app:destination="@id/personDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_gamer"
+        android:name="com.works.odev8.ui.Gamer.GamerFragment"
+        android:label="@string/menu_gamer"
+        tools:layout="@layout/fragment_gamer" >
+        <action
+            android:id="@+id/action_nav_gamer_to_personDetailFragment"
+            app:destination="@id/personDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_addPerson"
+        android:name="com.works.odev8.ui.AddPerson.AddPersonFragment"
+        android:label="@string/add_person"
+        tools:layout="@layout/fragment_add_person" />
+    <fragment
+        android:id="@+id/personDetailFragment"
+        android:name="com.works.odev8.ui.PersonDetail.PersonDetailFragment"
+        android:label="Person Information">
+        <argument
+            android:name="id"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_personDetailFragment_to_personUpdateFragment"
+            app:destination="@id/personUpdateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personUpdateFragment"
+        android:name="com.works.odev8.ui.PersonDetail.PersonUpdate.PersonUpdateFragment"
+        android:label="Update Person"
+        tools:layout="@layout/fragment_person_update" >
+        <argument
+            android:name="id"
+            app:argType="integer" />
+    </fragment>
+</navigation>

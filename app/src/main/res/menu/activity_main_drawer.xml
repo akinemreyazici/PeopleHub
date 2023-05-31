@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_homepage"
+            android:icon="@drawable/ic_homepage"
+            android:title="@string/menu_homepage" />
+        <item
+            android:id="@+id/nav_family"
+            android:icon="@drawable/ic_family"
+            android:title="@string/menu_family" />
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@drawable/ic_friends"
+            android:title="@string/menu_friends" />
+        <item
+            android:id="@+id/nav_school"
+            android:icon="@drawable/ic_school"
+            android:title="@string/menu_school" />
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@drawable/ic_business"
+            android:title="@string/menu_business" />
+        <item
+            android:id="@+id/nav_gamer"
+            android:icon="@drawable/ic_gamer"
+            android:title="@string/menu_gamer" />
+    </group>
+</menu>

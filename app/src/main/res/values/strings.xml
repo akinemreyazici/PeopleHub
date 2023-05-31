@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">odev8</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Akın Emre YAZICI</string>
+    <string name="nav_header_subtitle">github.com/akinemreyazici</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_homepage">Homepage</string>
+    <string name="menu_family">Family</string>
+    <string name="menu_friends">Friends</string>
+    <string name="menu_business">Business</string>
+    <string name="menu_gamer">Gamer</string>
+    <string name="menu_school">School</string>
+    <string name="add_person">Add Person</string>
+
+    <string-array name="group_names">
+        <item>Family</item>
+        <item>Friends</item>
+        <item>Business</item>
+        <item>Gamer</item>
+        <item>School</item>
+    </string-array>
+
+</resources>
